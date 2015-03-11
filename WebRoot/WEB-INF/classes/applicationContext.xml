@@ -26,7 +26,7 @@
         <!-- 指定连接数据库的用户名 -->  
         <property name="username" value="root" />  
         <!-- 指定连接数据库的密码 -->  
-        <property name="password" value="" />  
+        <property name="password" value="123456" />  
     </bean>  
     
 	<bean id="sessionFactory"
